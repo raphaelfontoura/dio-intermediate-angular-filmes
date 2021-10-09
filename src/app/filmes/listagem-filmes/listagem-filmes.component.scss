@@ -2,11 +2,11 @@
   display: flex;
   flex-wrap: wrap;
   width: calc(100% - 20px);
-  justify-content: space-between;
-   padding: 10px;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 1rem 1.5rem;
   .home-card {
     margin-bottom: 10px;
-
   }
 }
 
